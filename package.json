@@ -1,6 +1,6 @@
 {
   "name": "@boriscript/ui_library_test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "UI Library Test",
   "scripts": {
     "rollup": "rollup -c"
